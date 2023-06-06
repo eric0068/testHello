@@ -1,0 +1,21 @@
+{
+    "name": "zlz/testcomp",
+    "description": "test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "FirstComp\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "Eric",
+            "email": "852417273@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
