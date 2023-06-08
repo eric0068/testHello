@@ -1,0 +1,15 @@
+{
+  "name": "zlz/packages-test",
+  "authors": [
+    {
+      "name": "Eric",
+      "email": "852417273@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Zlz\\Packagetest\\": "src/"
+    }
+  }
+}
